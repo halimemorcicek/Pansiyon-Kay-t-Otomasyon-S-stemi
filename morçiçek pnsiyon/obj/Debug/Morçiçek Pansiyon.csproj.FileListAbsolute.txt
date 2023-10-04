@@ -1,0 +1,188 @@
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAdminGiris.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAnaForm.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.Properties.Resources.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe.config
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\bin\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmOdalar.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmYeniMusteri.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\bin\Debug\Morçiçek Pnsiyon.exe.config
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\bin\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\bin\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek Pansiyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek Pansiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAdminGiris.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAnaForm.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek_Pnsiyon.FrmOdalar.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek_Pnsiyon.FrmYeniMusteri.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek_Pnsiyon.Properties.Resources.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek Pansiyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pansiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMusteriler.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe.config
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\bin\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAdminGiris.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAnaForm.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMusteriler.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmOdalar.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmYeniMusteri.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.Properties.Resources.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morçiçek pnsiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe.config
+C:\Users\user\Desktop\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAdminGiris.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAnaForm.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMusteriler.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmOdalar.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmYeniMusteri.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.Properties.Resources.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe.config
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAdminGiris.resources
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAnaForm.resources
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMusteriler.resources
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmOdalar.resources
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmYeniMusteri.resources
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.Properties.Resources.resources
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGelirGider.resources
+C:\Users\user\Desktop\morcicek pansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmStoklar.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGelirGider.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmStoklar.resources
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe.config
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAdminGiris.resources
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAnaForm.resources
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGelirGider.resources
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMusteriler.resources
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmOdalar.resources
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmStoklar.resources
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmYeniMusteri.resources
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.Properties.Resources.resources
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmRadyoDinle.resources
+C:\Users\user\Desktop\mrcckpansiyon\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGazeteler.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\morçiçek pnsiyon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGazeteler.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmRadyoDinle.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMesajlar.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe.config
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGazeteler.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAdminGiris.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAnaForm.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGelirGider.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMesajlar.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMusteriler.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmOdalar.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmRadyoDinle.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmStoklar.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmYeniMusteri.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.Properties.Resources.resources
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\morçiçek\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe.config
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGazeteler.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAdminGiris.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAnaForm.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGelirGider.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMesajlar.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMusteriler.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmOdalar.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmRadyoDinle.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmStoklar.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmYeniMusteri.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.Properties.Resources.resources
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\MRCCK\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmSifreGuncelle.resources
+C:\Users\user\Desktop\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmSifreGuncelle.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe.config
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\bin\Debug\Morçiçek Pnsiyon.pdb
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGazeteler.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAdminGiris.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAnaForm.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmGelirGider.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMesajlar.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmMusteriler.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmOdalar.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmRadyoDinle.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmSifreGuncelle.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmStoklar.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmYeniMusteri.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek_Pnsiyon.Properties.Resources.resources
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.exe
+C:\Users\user\Desktop\mor\morçiçek pnsiyon\obj\Debug\Morçiçek Pnsiyon.pdb

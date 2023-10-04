@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pnsiyon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pnsiyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAdminGiris.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmAnaForm.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.FrmYeniMüşteri.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek_Pnsiyon.Properties.Resources.resources
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pnsiyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\morçiçek pansiyon\Morçiçek Pnsiyon\obj\Debug\Morçiçek Pnsiyon.csproj.CoreCompileInputs.cache
