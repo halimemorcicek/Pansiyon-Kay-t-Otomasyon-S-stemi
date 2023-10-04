@@ -1,1 +1,1 @@
-# o
+# pansiyon kayıt otomasyon sistemi
